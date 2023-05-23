@@ -1,0 +1,34 @@
+1684805833732	geckodriver	INFO	Listening on 127.0.0.1:55264
+1684805838141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55265" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\salte\\AppData\\Local\\Temp\\rust_mozprofileo9fG8s"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684805838611	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684805838615	Marionette	INFO	Listening on port 55284
+WebDriver BiDi listening on ws://127.0.0.1:55265
+Read port: 55284
+1684805838790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55265/devtools/browser/d7d77805-2996-4342-82b8-c6355b20ff90
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.c29e1df213f970a80172.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\salte\AppData\Local\Temp\rust_mozprofileo9fG8s\thumbnails) because it does not exist
+1684805881130	geckodriver	INFO	Listening on 127.0.0.1:55516
+1684805885582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\salte\\AppData\\Local\\Temp\\rust_mozprofileklyC2R"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684805886067	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684805886072	Marionette	INFO	Listening on port 55533
+WebDriver BiDi listening on ws://127.0.0.1:55517
+Read port: 55533
+1684805886247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55517/devtools/browser/9e3f271c-b038-4a7c-af51-92ad7158d11d
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.c29e1df213f970a80172.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\salte\AppData\Local\Temp\rust_mozprofileklyC2R\thumbnails) because it does not exist
